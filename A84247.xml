@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull news from Oxford-shire. Being a true relation of a victorious battell fought by the apprentizes, of London, against the cavaliers wherein were slaine 16 of the said cavaliers. And not one of the apprentizes wounded, but one shot through the arme with a pistoll. With divers other exployts against the said cavaliers by the valiant apprentizes. Whereunto is annexed the couragious proceedings of the said apprentizes who are resolved to spend their dearest blood for the good of King and Parliament. Also some remarkeable passages from Banbury and Warwickshire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84247</idno>
+            <idno type="STC">Wing E3751</idno>
+            <idno type="STC">Thomason E112_21</idno>
+            <idno type="STC">ESTC R10077</idno>
+            <idno type="EEBO-CITATION">99858793</idno>
+            <idno type="PROQUEST">99858793</idno>
+            <idno type="VID">110852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110852)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull news from Oxford-shire. Being a true relation of a victorious battell fought by the apprentizes, of London, against the cavaliers wherein were slaine 16 of the said cavaliers. And not one of the apprentizes wounded, but one shot through the arme with a pistoll. With divers other exployts against the said cavaliers by the valiant apprentizes. Whereunto is annexed the couragious proceedings of the said apprentizes who are resolved to spend their dearest blood for the good of King and Parliament. Also some remarkeable passages from Banbury and Warwickshire.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Agust [sic] 17. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oxfordshire (England) --  History --  Early works to 1800.</term>
+               <term>Warwickshire (England) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110852:1" rendition="simple:additions"/>
+            <p>Exceeding Ioyfull news FROM OXFORD-SHIRE.</p>
+            <p>Being a true relation of a victo<g ref="char:EOLhyphen"/>rious Battell fought by the Apprentizes, of <hi>London,</hi> againſt the Cavaliers wherein were ſlaine 16 of the ſaid Cavaliers.</p>
+            <p>And not one of the Apprentizes woun<g ref="char:EOLhyphen"/>ded, but one ſhot through the Arme with a Piſtoll.</p>
+            <p>WITH Divers other exployts againſt the ſaid Cavaliers by the Valiant Apprentizes.</p>
+            <p>Whereunto is annexed the couragious proceedings of the ſaid Apprentizes who are reſolved to ſpend their deareſt blood for the good of King and <hi>Parliament.</hi>
+            </p>
+            <p>Alſo ſome remarkeable paſſages from <hi>Banbury</hi> and <hi>Warwickſhire.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> printed for <hi>Thomas Watſon. Aguſt</hi> 17. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110852:2"/>
+            <pb n="3" facs="tcp:110852:2"/>
+            <head>Exceeding Ioyfull news from <hi>Oxford-ſhire,</hi> being a true Re<g ref="char:EOLhyphen"/>lation of a victorious battell fought by the Ap<g ref="char:EOLhyphen"/>prentizes of <hi>London,</hi> againſt the Cavaliers, whorein was ſlaine ſixteene of the ſaid Cavaleires.</head>
+            <head type="sub">And not one of the Apprentizes wounded, but one that was ſhor through the arme with a Piſtoll.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Here hath beene great mercies of God beſtowed on us in theſe times of danger, and amongſt all other mercies, this great mercy of God lately beſtowed on us is not to bee forgotten, for theſe times having brought forth great diſtractions, it hath pleaſed GOD to ſuffer things ſo to be, that of late there have ſprung up a Generation of factious Perſons, Eenemies to the King and Kingdome and eſpecially to this our pre<g ref="char:EOLhyphen"/>ſent Parliament.</p>
+            <pb n="4" facs="tcp:110852:3"/>
+            <p> For of late, it pleaſed God to move the hearts of divers Officers of the London Apprentizes, to give themſelves Voluntarily to goe out for the good of the Kingdome, againſt ſome Cavaliers, who have gathered themſelves togeather in <hi>Oxfordſhir</hi> againſt all thoſe who ſtood for the truth, and for the defence of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliament.</p>
+            <p>But now they being ſetled togeather and think<g ref="char:EOLhyphen"/>ing themſelves ſafe, went againſt the Towne of <hi>Banbury,</hi> and ſome of our London Apprentizes who were at that time lying in Ambuſh and hearing of their comming (as at laſt they did) and ceazing on the ſaid Towne, were forced divers of them to fly, by reaſon of our London Apprentizes, who parſuing them hard, at laſt fell to blowes, and ſlew many of the Caveliers; who, flying for their Lives, were met by many of their Comrages? and then comming backe, ſuppoſing themſelves to be farre more in number then the apprentizes, thought to give them a repulſe; but in the end, finding them more couragious then themſelves, they were forc<g ref="char:EOLhyphen"/>ed to take a ſecond flight; But the Apprentizes ſee<g ref="char:EOLhyphen"/>ing them ſo to betake themſelves to their heeles, were the more incourraged to follow them, and be<g ref="char:EOLhyphen"/>ing hard followed divers of the Cavaliers were ſlain to the number of about ſixteene, beſides others who were wounder greiveouſly.</p>
+            <p>The Apprentizes thus ſeeing the Cavaliers thus to fly before them, were much inheartned and are reſolved thus to ſpend their Lives for the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="5" facs="tcp:110852:3"/>
+            <p> For they ſeeing the affront of their Enemy given them thus to be anſwered with the loſſe of ſo many, and not one of them to be loſt or wounded, ſave onely one of them, Who by chance was ſhort through the Arme with a Bullet from a Piſtoll, by one of the Cavaliers, at their ſecond comming on, yet through the mercy of God, ſhewed to the pro<g ref="char:EOLhyphen"/>ceedings of our Bleſſed and happy Parliament, they who were Enemies to them, and to the truth, were beaten backe <hi>&amp;c.</hi> Our Apprentizes as Loyall and true hearted Subjects with undaunted Sperits do ſo Reſolve ſtill to goe on, in the defence of the true Proteſtant Religion.</p>
+            <p>Alſo there was another meeting of our Appren<g ref="char:EOLhyphen"/>tizes in a Village neere the City of <hi>Oxford,</hi> with ſome reſolute Fellowes of the Caveliers, yet their reſolute ſpirits were ſoone cold, for they having a ſight of our London apprentizes, though ſmall in Number to their ſight, yet great in Terrour to their feeling, for they comming againſt the day, like Ap<g ref="char:EOLhyphen"/>prentizes as they call them, thinking to make meat for the fowles of the Ayre, but ſerved for little bet<g ref="char:EOLhyphen"/>ter uſe themſelves.</p>
+            <p>For they meeting both together on a plaine, gave an affront to the apprentizes, calling them London Boyes, yet found them London men, for they had no ſooner gave them theſe words, but they gave fire like men, which gave them ſuch a manlike cure as made them Boy-like <hi>Caveliers.</hi>
+            </p>
+            <p>Theſe were theſe Cavaliers beaten backe to their
+<pb n="6" facs="tcp:110852:4"/>owne diſgrace, and the good of the whole Land; to which proceedings; I pray God give good ſucceſſe, And thus farre have the Parliament ſpeed in their doings for as they have proſpered through the helpe of God againſt the malignant parties, who ſtands out againſt the peace of King &amp; Parliament, and ſeeke the utter ruine of the whole Kingdome; ſo I pray God that they may proſper.</p>
+            <div type="part">
+               <head>Divers paſſages concerning the taking of ſome ord<g ref="char:EOLhyphen"/>nances from <hi>Banbury,</hi> by the Eaple of <hi>Northamp<g ref="char:EOLhyphen"/>ton,</hi> and of the Cavalieres violent actions in theſe Counties.</head>
+               <p>TO give you farther particular notice of ſome vi<g ref="char:EOLhyphen"/>olent paſſages committed by theſe nefarious Sonnes of tumult and Rebellion; it is moſt certaine, that there happened a great contention between my Lord <hi>Brook,</hi> and the Earle of <hi>Northampton,</hi> about the carrying of a peece of Ordinance to <hi>Warwicke</hi> Caſtle, which was ſtaied by my Lord <hi>Brook,</hi> And afterward upon agreement betweene them were returned and brought backe to <hi>Banbury,</hi> and kept in the Caſtle; but the Cavaliers layd this plort, and telling thoſe that they met, comming to Aide <hi>Banbury</hi> that all things were quiet, they beleeved them, and went backe, hereupon the Earle of <hi>Nor<g ref="char:EOLhyphen"/>thampton</hi>
+                  <pb n="7" facs="tcp:110852:4"/>having plant<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Ordinances on Crowch-Hill, The Town was in a great feare and uproare, their Captaine forſooke them and ranne out of the Town, by whom it is moſt certaine that they were Betrayed, ſo that men, Women, and Children fled out of the town, the Miniſters trembled, fearing to be abuſed by the Cavaliers; Who having taken Maſter <hi>Sutton</hi> a neighbour Miniſter forced him on his knees to drinke a health to the confuſion of all the <hi>Round header,</hi> and to ſweare that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e would read the <hi>Common prayer,</hi> and never preach any more fac<g ref="char:EOLhyphen"/>tious Sermons, they tooke alſo poſſeſſion of Maſter <hi>Harris</hi> his houſe miniſter of <hi>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nwell,</hi> and of the La<g ref="char:EOLhyphen"/>dy <hi>Copes</hi> houſe, after this the Ordnance wee deli<g ref="char:EOLunhyphen"/>vered up to the Cavaliers, 300 horſe comming <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o their aid from the Earle of No<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thampton, giving the Lord <hi>Brookes</hi> no warning thereof, as he promiſed to doe three dayes before they ſhould be removed, there were in company with the Earle of <hi>Northamp<g ref="char:EOLhyphen"/>ton,</hi> Colonell <hi>Lunsford,</hi> the Lord <hi>Wilmot,</hi> and the Lord <hi>Dunſmore,</hi> who for denying to deliver up the Town Arms by vertue of the Commiſſion of Array very violently uſed the Conſtable, and the Armes and Ammunition forcibly tooke away from him.</p>
+               <p>It is moſt certaine alſo, that ſome Cavaliers ha<g ref="char:EOLhyphen"/>ving at <hi>Warwicke</hi> mounted Ordnance upon a Steeple by the breaking of ſome of them in the diſcharging, three of the Cavaliers were ſlaine, to ſhew that thoſe that fight againſt the Church, and Religion, are no where ſafe from Gods ſevere Iudgments. Beſides
+<pb n="8" facs="tcp:110852:5"/>theſe troopers do daily committ and perpetrate ma<g ref="char:EOLhyphen"/>ny violent Acts of hoſtility round about the Coun<g ref="char:EOLhyphen"/>try: benig at <hi>Rugby, Hilmorton, Cranburrow,</hi> and other Townes, where they have done very much miſcheife, and tooke away their Armes, And thus the poore Country is but the Stage, whereupon theſe cutting Cavaliers do Act daily tragedies, to the great feare and ter<g ref="char:EOLhyphen"/>rour of the whole County, who to their utmoſt power, will ever perſiſt in ſtanding for the defence of the Parliament.</p>
+            </div>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
